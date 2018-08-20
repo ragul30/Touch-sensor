@@ -1,1 +1,2 @@
 # Touch-sensor
+  The sense of touch is an important sensory channel in many animals and some plants. Our senses inform to us when our hands touch something. Computer input devices are indifferent to human contact as there is no reaction from software in the event of making, maintaining or breaking physical contact like touches or releases. Thus, touch sensing input devices offers numerous possibilities for novel interaction techniques. Touch sensor technology is slowly replacing the mechanical objects like mouse and keyboard.
